@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "description": "Drink water",
+        "description": "reading books",
         "deadline": "2025-01-28",
         "status": "pending"
     },
@@ -13,13 +13,13 @@
     },
     {
         "id": 3,
-        "description": "go to shop",
+        "description": "go to home",
         "deadline": "2024-01-28",
         "status": "pending"
     },
     {
         "id": 4,
-        "description": "walking",
+        "description": "singing",
         "deadline": "2025-01-29",
         "status": "pending"
     }
